@@ -2,7 +2,7 @@
 Padrão Pub/Sub utilizando Redis como exemplo para entregar mensagens em tempo real.
 
 
-##Instruções
+## Instruções
 1. Build o projeto: docker-compose build
 2. Levante os containers: docker-compose up -d
 3. Entre no bash do composer: docker-compose exec app bash
